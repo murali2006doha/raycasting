@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="light_source.cpp">
+    <Files>
+      <File FileName="main.cpp" Line="1" Column="1" />
+      <File FileName="light_source.cpp" Line="110" Column="55" />
+      <File FileName="raytracer.cpp" Line="26" Column="26" />
+      <File FileName="scene_object.cpp" Line="82" Column="1" />
+      <File FileName="util.h" Line="144" Column="43" />
+      <File FileName="light_source.h" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
